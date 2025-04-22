@@ -1,3 +1,4 @@
-Nama : Muhammad Irfan Hasani Al-Ghifari
+Nama : Freidrick Albert Pakpahan
 
-NPM : 2310631250069
+NPM : 2310631250058
+
